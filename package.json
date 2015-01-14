@@ -1,0 +1,31 @@
+{
+  "name": "alice-turing",
+  "version": "0.0.1",
+  "description": "A small app to test/develop some ideas about chatterbots, this is a sandbox which should not work as I try to implement a  way too simple version of a fairly complex idea: http://people.idsia.ch/~steunebrink/Publications/AGI11_goedel_machine.pdf",
+  "author": "Emmanuel Requier <alaeri@gmail.com>",
+  "main": "lib/foo.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alaeri/alice-turing"
+  },
+  "bugs": {
+    "url": "https://github.com/alaeri/alice-turing/issues"
+  },
+  "keywords": [
+    "godel",
+    "Jürgen Schmidhuber",
+    "turing"
+  ],
+  "dependencies": {
+    "express": "^4.2.0",
+    "jade": "^0.26.3"
+  },
+  "private": true,
+  "publishConfig": {},
+  "license": "DO NOT USE IT DOES NOT WORK.",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "homepage": "https://github.com/alaeri/alice-turing",
+  "devDependencies": {}
+}
